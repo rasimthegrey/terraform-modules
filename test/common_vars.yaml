@@ -1,0 +1,7 @@
+namespace: test
+environment: dev
+
+tags:
+  Namespace: test
+  Environment: dev
+  Terraform: true
